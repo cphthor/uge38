@@ -6,3 +6,9 @@
 
 2) ModuloPrime
 
+3) MakeNewSpeach
+
+4) ComputeSum
+
+
+
