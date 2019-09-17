@@ -33,4 +33,3 @@ class ModPrime {
     return isPrime;
   }
 }
-
