@@ -3,7 +3,6 @@
 ### Rækkefølgen 
 
 1) OrderDrinks
-![alt text](https://thumbs.dreamstime.com/z/contemporary-classics-cocktail-set-excellent-vector-illustration-eps-62377542.jpg)
 
 2) OrderOfPrec
 
