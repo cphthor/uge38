@@ -4,7 +4,7 @@
 
 1) OrderFlowers
 
-2) ModuloPrime
+2) ModPrime
 
 3) MakeNewSpeach
 
