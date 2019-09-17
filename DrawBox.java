@@ -15,11 +15,6 @@ class DrawBox {
      * angives som parametre. 
      *
      * TESTKØRSEL:
-     * drawBox(5,10);
-     * tegn en firkant vha  metoden drawBox hvor højde og bredde 
-     * angives som  parametre. 
-     *
-     * TESTKØRSEL:
      * drawBox(5,10) giver flg. figur
 
         **********
