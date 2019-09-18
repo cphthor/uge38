@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MakeNewSpeach {
+public class MakeNewSpeachImproved {
   public static void main(String[] args) {
 
     String speachTemplate = "Jeg er så TEMPERVAL at være med idag. Vi har kendt hinanden siden TEMPPLACE. Jeg husker tydeligt hvordan du TEMPVALAKTIVITET\n"; 

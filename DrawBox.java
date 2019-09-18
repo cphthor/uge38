@@ -1,6 +1,6 @@
 class DrawBox {
   public static void main(String[] args) {
-    drawBox(5,10);
+    drawBox(6,10);
     /*
      * FORMÅL: 
      * for-loops samt parametrisere printf
@@ -12,10 +12,10 @@ class DrawBox {
      *
      * OPGAVEN:
      * tegn en firkant vha  metoden drawBox hvor højde og bredde 
-     * angives som parametre. 
+     * angives som parametre 
      *
      * TESTKØRSEL:
-     * drawBox(5,10) giver flg. figur
+     * drawBox(6,10) giver flg. figur
 
         **********
         *        *
@@ -34,7 +34,7 @@ class DrawBox {
     // TODO: skriv for-loop hvor hver iteration tegner en linje
     // og hvor antallet af loops begrænses af height samt at
     // width indgår i formateringen af printf.
-    for (int i = 1; i< height;i++) {
+    for (int i = 2; i< height;i++) {
       format = "*%"+(width - 2)+"s*%n"; 
       System.out.printf(format,myEmpty);
     }

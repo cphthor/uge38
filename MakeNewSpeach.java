@@ -7,8 +7,17 @@ public class MakeNewSpeach {
      *
      * OPGAVEN: copy/paste programmet og tilføj nu to pladsholdere i templaten så din tale ud over 
      * erindringsstedet også rummer en begivenhed og en følelse
-     * Resten af programmet skal så udvides så de to nye pladsholdere bliver udskiftet på samme måde
-     * som erindringsstedet
+     *
+     * Templaten er strengen speachTemplate.
+     * Pladsholderen finder du i speachTemplaten - TEMPPLACE.
+     *
+     * Du skal nu udvide programmet ved at tilføje to nye pladsholdere (find selv på navne) 
+     * og derpå via en brugerdialog få input til hvad de skal udskiftes med på samme måde
+     * som erindringsstedet bliver sat ind i den endelige tekst i stedet for TEMPPLACE.
+     *
+     * TESTKØRSEL: (eksempel)
+     * Jeg er så glad at være med idag. Vi har kendt hinanden siden skolegården. 
+     * Jeg husker tydeligt hvordan du kastede op
      *
      */
 
