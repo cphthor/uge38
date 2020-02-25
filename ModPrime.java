@@ -2,6 +2,7 @@ import java.util.Scanner;
 class ModPrime {
   public static void main(String[] args) {
     Scanner  myScan = new Scanner(System.in);
+    System.out.println("Enter a positive number: ");
     int userInt = myScan.nextInt();
     String answer = isPrime(userInt);
     System.out.println(userInt + answer);
